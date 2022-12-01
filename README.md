@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Chigozie-css
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Chigozie-css/Chigozie-css is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Chigozie
+- 👀 I’m interested in in full stack development.
+- 🌱 I’m currently learning HTML, CSS, JS and a little bit of Python.
+- 💞️ I’m looking to collaborate on any project that can solve real world problems.
+- 📫 I'm currently active on Facebook with the username Chigozie.
