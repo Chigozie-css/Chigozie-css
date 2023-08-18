@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chigozie
-- 👀 I’m interested in in software development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently a student of ALX.
 - 💞️ I am looking forward to collaborating with my fellow software developers to solve real-world problems.
 - 📫 I'm currently active on Facebook with username Chigozie.
