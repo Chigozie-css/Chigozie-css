@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Chigozie
-- 👀 I’m interested in software development, and I’m currently a student of ALX.
+- 👀 I’m interested in software development.
 - 🌱 I am looking forward to collaborating with my fellow software developers to solve real-world problems.
 - 💞️  I'm active on linkedin >> https://www.linkedin.com/in/chigozie-divine-525a2122a
